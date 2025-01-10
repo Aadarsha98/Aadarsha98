@@ -5,7 +5,7 @@
 - 📫 How to reach me via
 Email: aadarshaupadhyay@gmail.com
 LinkedIn: https://www.linkedin.com/in/aadarsha-upadhyay/
-GitHub: https://github.com/Aadarsha98/Aadarsha98
+GitHub: https://github.com/Aadarsha98/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can write a Python script faster than I can cook a meal (but still enjoy experimenting in the kitchen).
 
